@@ -1,0 +1,36 @@
+footer{
+    margin-top: 2844px;
+    height: 220px;
+    background-color: #0075c9;
+    display: block;
+}
+#risk-summary{
+    margin: 0 auto;
+    width: 780px;
+    background: black;
+    padding: 20px;
+    color: white;
+    background-color: cornflowerblue;
+
+}
+#footer-text{
+    top: 2892px;
+    left: 292px;
+    width: 547px;
+    height: 110px;
+    position: absolute;
+    color: white;
+    font-size: 12px;
+    line-height: 200%;
+    padding-top: 3%;
+
+}
+
+#footer-logo{
+    top: 2891px;
+    left: 1380px;
+    width: 158px;
+    height: 42px;
+    padding-top: 3%;
+    position: absolute;
+}
